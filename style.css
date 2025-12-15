@@ -115,6 +115,7 @@ aside a:hover {
 main {
   flex: 1;
   padding: 2rem 3rem;
+  padding-top: calc(2rem + 20px);
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   position: relative;
